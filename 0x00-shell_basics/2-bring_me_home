@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bib/bash
 cd ..
+=======
+#!/bin/bash
+cd ~
+>>>>>>> 74955e608ed81957be1aef5d65d0954be33d310c
